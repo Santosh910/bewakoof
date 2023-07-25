@@ -294,8 +294,8 @@
 }
 .footer{
     width: 100%;
-    height: 2900px;
-    /* border: 1px solid blue; */
+    height: 3000px;
+    border: 1px solid black;
     background-color: black;
 }
 .pbox-1{
